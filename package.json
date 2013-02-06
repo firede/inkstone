@@ -1,0 +1,13 @@
+{
+    "name": "inkstone",
+    "description": "Cufon inspired Font Replacement Engine with canvas and VML",
+    "version": "0.0.1",
+    "author": "Firede <firede@firede.us>",
+    "contributors": [
+        { "name": "Firede", "email": "firede@firede.us" }
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "keywords": [ "inkstone", "cufon", "font" ],
+    "repository": "git://github.com/firede/inkstone.git"
+}
